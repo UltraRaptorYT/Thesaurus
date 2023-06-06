@@ -1,0 +1,96 @@
+
+C:\Users\Soh Hong Yu\OneDrive\Desktop\Coding\DSA\CA1>python main.py
+
+************************************************************
+* ST1507 DSAA: Welcome to:                                 *
+*                                                          *
+*  ~ Thesaurus Based Text Processing Application ~         *
+*----------------------------------------------------------*
+*                                                          *
+* - Done by: Soh Hong Yu (2100775)                         *
+* - Class DAAA/2B/01                                       *
+************************************************************
+
+
+Press any key to continue . . .
+
+Please select your choice: (1,2,3,4,5,6,7,8,9,10)
+        1. New
+        2. Open
+        3. Sort
+        4. Process Text
+        5. Additional Functions
+        6. Spell Checker
+        7. Print
+        8. Save
+        9. Save As
+        10. Exit
+Enter choice: 2
+
+We will be opening an existing Thesaurus.
+Please enter input file (Enter 0 to return): thesaurus1.txt
+
+Thesaurus "thesaurus1.txt" has been loaded and is printed here...
+brave: bold, courageous, daring, fearless, heroic, plucky, valiant
+cat: feline, kitten, kitty, pussycat
+ferocious: aggressive, barbarous, brutal, cruel, fierce, merciless, savage, unruly, vicious, violent, wild
+
+Press any key to continue . . .
+
+Please select your choice: (1,2,3,4,5,6,7,8,9,10)
+        1. New
+        2. Open
+        3. Sort
+        4. Process Text
+        5. Additional Functions
+        6. Spell Checker
+        7. Print
+        8. Save
+        9. Save As
+        10. Exit
+Enter choice: 5
+
+Please select your choice: (1,2,3,4,5,6,7,8)
+        1. Add NEW keyword(s)
+        2. Add NEW synonym(s)
+        3. Edit keyword(s)
+        4. Edit synonym(s)
+        5. Delete keyword(s)
+        6. Delete synonym(s)
+        7. Delete Thesaurus
+        8. Back to Main Menu
+Enter choice: 5
+
+Printing existing Thesaurus....
+brave: bold, courageous, daring, fearless, heroic, plucky, valiant
+cat: feline, kitten, kitty, pussycat
+ferocious: aggressive, barbarous, brutal, cruel, fierce, merciless, savage, unruly, vicious, violent, wild
+
+
+Enter keyword to delete (Enter 0 to return): cat
+
+Are you should you want to delete "cat"? y/n: y
+
+Your edited Thesaurus is ready and printed here....
+brave: bold, courageous, daring, fearless, heroic, plucky, valiant
+ferocious: aggressive, barbarous, brutal, cruel, fierce, merciless, savage, unruly, vicious, violent, wild
+
+
+Do you want to delete more keywords? y/n: n
+Press any key to continue . . .
+
+Please select your choice: (1,2,3,4,5,6,7,8,9,10)
+        1. New
+        2. Open
+        3. Sort
+        4. Process Text
+        5. Additional Functions
+        6. Spell Checker
+        7. Print
+        8. Save
+        9. Save As
+        10. Exit
+Enter choice: 10
+
+Bye, thanks for using ST1507 DSAA: Thesaurus Based Text Processor
+

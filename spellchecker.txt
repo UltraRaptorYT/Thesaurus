@@ -1,0 +1,51 @@
+C:\Users\Soh Hong Yu\OneDrive\Desktop\Coding\DSA\CA1>python main.py
+
+************************************************************
+* ST1507 DSAA: Welcome to:                                 *
+*                                                          *
+*  ~ Thesaurus Based Text Processing Application ~         *
+*----------------------------------------------------------*
+*                                                          *
+* - Done by: Soh Hong Yu (2100775)                         *
+* - Class DAAA/2B/01                                       *
+************************************************************
+
+
+Press any key to continue . . .
+
+Please select your choice: (1,2,3,4,5,6,7,8,9,10)
+        1. New
+        2. Open
+        3. Sort
+        4. Process Text
+        5. Additional Functions
+        6. Spell Checker
+        7. Print
+        8. Save
+        9. Save As
+        10. Exit
+Enter choice: 6
+
+Welcome to Spell Checker!
+Don't know how to spell? Enter keyword here!
+
+Enter keyword (Enter 0 to return): ca
+ca, cal, cam, cat, caw
+
+Press any key to continue . . .
+
+Please select your choice: (1,2,3,4,5,6,7,8,9,10)
+        1. New
+        2. Open
+        3. Sort
+        4. Process Text
+        5. Additional Functions
+        6. Spell Checker
+        7. Print
+        8. Save
+        9. Save As
+        10. Exit
+Enter choice: 10
+
+Bye, thanks for using ST1507 DSAA: Thesaurus Based Text Processor
+

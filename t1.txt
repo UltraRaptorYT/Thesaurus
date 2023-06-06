@@ -1,0 +1,3 @@
+cat:kitty,furry
+dog:doggy,mypet,pet,yourpet
+fish:goldie,pet

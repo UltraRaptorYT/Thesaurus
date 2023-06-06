@@ -1,0 +1,3 @@
+cat:kitty,feline,kitten,pussycat
+brave:courageous,valiant,heroic,bold,daring,fearless,plucky
+ferocious:fierce,vicious,violent,cruel,brutal,aggressive,wild,unruly,savage,merciless,barbarous
